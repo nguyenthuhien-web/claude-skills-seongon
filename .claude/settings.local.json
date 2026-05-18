@@ -64,7 +64,10 @@
       "Bash(touch .claude/skills/swot-analyzer/SKILL.md .claude/skills/swot-analyzer/templates/swot-template.md .claude/skills/swot-analyzer/rules/competitor-signals.md)",
       "Bash(mkdir -p /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/scripts /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/rules /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/templates)",
       "Bash(touch /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/SKILL.md /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/scripts/get-trends.py /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/rules/topic-scoring-rules.md /Users/nguyenthuhien/Claude/.claude/skills/trending-topic-finder/templates/trending-report-template.md)",
-      "Bash(git init *)"
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git rm *)"
     ]
   }
 }
