@@ -2,13 +2,30 @@
 name: trending-topic-finder
 description: "Tìm kiếm và phân tích các chủ đề đang trending trên Google Trends theo ngành, trả về báo cáo phân loại và kế hoạch content ưu tiên"
 user-invokable: true
-argument-hint: "<ngành/từ_khóa> [--country VN] [--days 7]"
-license: MIT
-compatibility: "Free: requires pytrends library (pip install pytrends)"
+author: SEONGON
+version: "1.0.0"
+hooks:
+  run: true
+  trigger: "/trending-topic-finder"
+arguments:
+  - name: keyword
+    type: string
+    required: true
+    description: "Ngành hoặc từ khóa cần tìm trending"
+  - name: country
+    type: string
+    required: false
+    default: "VN"
+    description: "Mã quốc gia (mặc định: VN)"
+  - name: days
+    type: integer
+    required: false
+    default: 7
+    description: "Số ngày lấy dữ liệu (mặc định: 7, tối đa: 90)"
 metadata:
-  author: SEONGON
-  version: "1.0.0"
   category: seo-content
+  dependencies: ["pytrends>=2.4.0", "pandas>=1.0.0"]
+  tags: [trending-topics, google-trends, seo-research, content-strategy]
 ---
 
 # trending-topic-finder
@@ -17,6 +34,12 @@ Skill tìm chủ đề trending cho content SEO.
 Kết nối Google Trends qua CLI Python (pytrends).
 Nhận vào ngành/từ khóa, trả về báo cáo trending
 kèm kế hoạch content ưu tiên theo tuần.
+
+**Execution Flow:**
+- Skill receives `/trending-topic-finder <keyword> [--country VN] [--days 7]`
+- Calls Python script: `scripts/get-trends.py` with parsed arguments
+- Processes Google Trends data via pytrends library
+- Generates markdown report in `outputs/trending-[keyword]-[date].md`
 
 ---
 
@@ -269,6 +292,4 @@ outputs/trending-ecommerce-2026-05-18.md
 ---
 
 **Tạo bởi:** SEONGON  
-**License:** MIT  
-**Thể loại:** SEO Content Strategy  
-**Dependencies:** pytrends, pandas, argparse, time, datetime
+**Thể loại:** SEO Content Strategy

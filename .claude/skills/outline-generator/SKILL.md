@@ -2,13 +2,28 @@
 name: outline-generator
 description: "Tạo dàn ý bài viết SEO hoàn chỉnh: nhận vào từ khóa và thông tin dự án, phân tích Search Intent, chọn concept phù hợp và tạo outline chuẩn SEO kèm checklist tự kiểm tra"
 user-invokable: true
-argument-hint: "<từ_khóa> [--intent informational|transactional|commercial|navigational] [--concept listicle|howto|comparison|review|guide]"
-license: MIT
-compatibility: "Free: no external API required, only local rules files"
+author: SEONGON
+version: "1.0.0"
+hooks:
+  run: true
+  trigger: "/outline-generator"
+arguments:
+  - name: keyword
+    type: string
+    required: true
+    description: "Từ khóa hoặc cụm từ cần tạo outline"
+  - name: intent
+    type: string
+    required: false
+    description: "Search Intent (informational, transactional, commercial, navigational) - tự phân tích nếu không chỉ định"
+  - name: concept
+    type: string
+    required: false
+    description: "Concept type (listicle, howto, comparison, review, guide) - tự gợi ý nếu không chỉ định"
 metadata:
-  author: SEONGON
-  version: "1.0.0"
   category: seo-content
+  dependencies: []
+  tags: [outline-generation, seo-content, search-intent, content-strategy]
 ---
 
 # outline-generator
@@ -392,7 +407,5 @@ outputs/outline-iphone-16-review-2026-05-18.md
 ---
 
 **Tạo bởi:** SEONGON  
-**License:** MIT  
-**Thể loại:** SEO Content Strategy  
-**Dependencies:** Không (chỉ cần local rules files)
+**Thể loại:** SEO Content Strategy
 

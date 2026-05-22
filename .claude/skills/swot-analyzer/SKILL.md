@@ -2,13 +2,24 @@
 name: swot-analyzer
 description: "Phân tích SWOT cho dự án content SEO: nhận vào tên brand và tên đối thủ, trả về bảng SWOT đầy đủ, bảng so sánh cạnh tranh, positioning statement và gợi ý ưu tiên content"
 user-invokable: true
-argument-hint: "<brand_name> vs <competitor_1> [competitor_2]"
-license: MIT
-compatibility: "Free: no external API required"
+author: SEONGON
+version: "1.0.0"
+hooks:
+  run: true
+  trigger: "/swot-analyzer"
+arguments:
+  - name: brand
+    type: string
+    required: true
+    description: "Tên brand/dự án muốn phân tích"
+  - name: competitors
+    type: string
+    required: true
+    description: "1-2 tên đối thủ cạnh tranh (ngăn cách bằng 'vs')"
 metadata:
-  author: SEONGON
-  version: "1.0.0"
   category: seo-content
+  dependencies: []
+  tags: [swot, content-strategy, seo, analysis]
 ---
 
 # swot-analyzer
@@ -252,5 +263,4 @@ outputs/swot-brand-viet-2026-05-18.md
 ---
 
 **Tạo bởi:** SEONGON  
-**License:** MIT  
 **Thể loại:** SEO Content Strategy
