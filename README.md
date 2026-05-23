@@ -1,37 +1,29 @@
 # Claude Code Skills - SEONGON
 
-3 skills được xây dựng bằng Claude Code cho công việc Content SEO.
-
-## Skills
-
-### 1. swot-analyzer
-Phân tích SWOT cho dự án content SEO.
-- Input: tên brand + tên đối thủ
-- Output: bảng SWOT, so sánh cạnh tranh, positioning statement
-
-### 2. trending-topic-finder
-Tìm chủ đề trending từ Google Trends qua CLI Python.
-- Input: ngành/từ khóa + country + số ngày
-- Output: báo cáo trending kèm kế hoạch content
-
-### 3. outline-generator
-Tạo dàn ý bài viết SEO tự động.
-- Input: từ khóa + search intent
-- Output: outline H1/H2/H3 kèm checklist chất lượng
+Workspace Claude Code cho Content SEO, gồm 3 skills + 2 sub-agents.
 
 ## Cấu trúc
 
+### Skills (`.claude/skills/`)
+1. **swot-analyzer** — Phân tích SWOT đối thủ
+2. **outline-generator** — Tạo outline bài SEO
+3. **trending-topic-finder** — Tìm trending topics
+
+### Sub-Agents (`.claude/agents/`)
+1. **serp-research-agent** — Nghiên cứu SERP, phân tích đối thủ
+   - Skills: competitor-content-analyzer, content-gap-finder
+2. **content-seo-agent** — Viết bài SEO chuẩn E-E-A-T
+   - Skills: keyword-research, content-writer
+
+## Cách chạy
+
+```bash
+# Chạy serp-research-agent
+bash .claude/agents/serp-research-agent/run.sh "keyword"
+
+# Chạy content-seo-agent  
+bash .claude/agents/content-seo-agent/skills/keyword-research/run.sh "keyword"
 ```
-.claude/skills/     ← 3 skills
-outputs/            ← file kết quả từ việc chạy skill
-conv/               ← lịch sử chat Claude Code
-```
 
-## Cách Sử Dụng
-
-Mỗi skill có file `SKILL.md` với hướng dẫn chi tiết và ví dụ.
-
----
-
-**Created:** 2026-05-18  
-**Author:** SEONGON
+## Outputs
+Tất cả output được lưu vào folder `outputs/`
