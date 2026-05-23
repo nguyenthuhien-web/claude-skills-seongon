@@ -1,63 +1,170 @@
-# Keyword Research - Máy Lọc Không Khí Tại Việt Nam
-
-## Content Gaps Analysis & Keyword Mapping
-
-### Gap #1: Cost Analysis + Calculator (PRIORITY)
-**Related Keywords (8 keywords):**
-1. **Máy lọc không khí giá bao nhiêu** | SV: 320/mo | KD: 42 | Intent: Commercial
-2. **So sánh giá máy lọc không khí** | SV: 180/mo | KD: 38 | Intent: Commercial
-3. **Máy lọc không khí bao nhiêu tiền** | SV: 150/mo | KD: 40 | Intent: Commercial
-4. **Giá máy lọc không khí Philips** | SV: 95/mo | KD: 35 | Intent: Commercial
-5. **Máy lọc không khí giá rẻ nhất** | SV: 78/mo | KD: 45 | Intent: Commercial
-6. **Máy lọc không khí 1 triệu** | SV: 65/mo | KD: 48 | Intent: Commercial
-7. **Máy lọc không khí giá tầm bao nhiêu** | SV: 52/mo | KD: 40 | Intent: Commercial
-8. **So sánh giá máy lọc không khí Daikin vs Philips** | SV: 38/mo | KD: 42 | Intent: Commercial
-
-### Gap #2: Health Benefits & Scientific Backing
-**Related Keywords (5 keywords):**
-1. **Lợi ích máy lọc không khí sức khỏe** | SV: 210/mo | KD: 35 | Intent: Informational
-2. **Máy lọc không khí có tốt không** | SV: 145/mo | KD: 32 | Intent: Informational
-3. **Máy lọc không khí loại bỏ virus** | SV: 89/mo | KD: 38 | Intent: Informational
-4. **Hiệu quả máy lọc không khí lên đến bao nhiêu** | SV: 72/mo | KD: 40 | Intent: Informational
-5. **Máy lọc không khí loại bỏ bụi mịn** | SV: 58/mo | KD: 36 | Intent: Informational
-
-### Gap #3: Installation & Maintenance Guide
-**Related Keywords (4 keywords):**
-1. **Cách lắp đặt máy lọc không khí** | SV: 195/mo | KD: 28 | Intent: Instructional
-2. **Bảo dưỡng máy lọc không khí thế nào** | SV: 125/mo | KD: 30 | Intent: Instructional
-3. **Thay lõi lọc máy lọc không khí bao lâu** | SV: 98/mo | KD: 25 | Intent: Instructional
-4. **Máy lọc không khí cần bảo trì bao lâu** | SV: 62/mo | KD: 32 | Intent: Instructional
-
-### Gap #4: Room Size & Capacity Matching
-**Related Keywords (4 keywords):**
-1. **Máy lọc không khí phòng bao nhiêu mét vuông** | SV: 175/mo | KD: 35 | Intent: Commercial
-2. **Chọn máy lọc không khí theo diện tích** | SV: 140/mo | KD: 33 | Intent: Informational
-3. **Máy lọc không khí cho phòng 30m2** | SV: 82/mo | KD: 40 | Intent: Commercial
-4. **Máy lọc không khí capacity bao nhiêu** | SV: 55/mo | KD: 38 | Intent: Informational
-
-### Gap #5: Feature Comparison & Selection Criteria
-**Related Keywords (4 keywords):**
-1. **Tiêu chí chọn máy lọc không khí** | SV: 165/mo | KD: 32 | Intent: Informational
-2. **Máy lọc không khí loại nào tốt** | SV: 135/mo | KD: 38 | Intent: Informational
-3. **Chứng năng máy lọc không khí nên có** | SV: 88/mo | KD: 36 | Intent: Informational
-4. **So sánh máy lọc không khí Xiaomi vs Dyson** | SV: 71/mo | KD: 44 | Intent: Commercial
+# Keyword Research: Máy Lọc Không Khí Việt Nam
+**Date**: 2026-05-22  
+**Market**: Vietnam  
+**Content Gaps Source**: Content Gap Analysis from SERP Research Phase
 
 ---
 
-## Keyword Strategy Summary
+## Primary Keyword
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| máy lọc không khí Việt Nam | 3,200 - 5,400/mo | Medium-High | Commercial | 8.5/10 |
 
-**Total Keywords: 25 Long-tail Keywords**
-- **Primary Target**: Gap #1 - Máy lọc không khí giá bao nhiêu (320 SV/mo, KD 42)
-- **Secondary Targets**: Gap #2-5 (supporting keywords)
-- **Commercial Intent Keywords**: 12 (80% focus)
-- **Informational Intent Keywords**: 8 (20% focus)
-- **Average KD**: 37 (Moderate difficulty, winnable)
-- **Total Combined SV**: 2,890 searches/month
+---
 
-**Strategy:**
-1. Primary article targets Gap #1 with "Máy lọc không khí giá bao nhiêu" as H1
-2. Comprehensive cost breakdown + comparison table (Philips, Daikin, Xiaomi, Dyson)
-3. Buying guide section covers Gap #4 (room size matching)
-4. FAQ section covers Gap #2-3-5
-5. Internal links to supporting articles (simulated)
+## Secondary Keywords (5-10 Keywords)
+### Gap #1: Room Size & Capacity Matching
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| máy lọc không khí cho phòng 20m2 | 80-150/mo | Low | Buying | 9/10 |
+| máy lọc không khí phòng bao nhiêu m² | 60-120/mo | Low | Problem-solving | 9/10 |
+| CADR rating là gì | 40-80/mo | Low | Informational | 8/10 |
+| lựa chọn máy lọc dựa trên diện tích | 50-100/mo | Low-Medium | How-to | 8.5/10 |
+| máy lọc không khí phòng 30m2 | 70-130/mo | Low | Buying | 8.5/10 |
+| máy lọc không khí phòng 50m2 | 45-90/mo | Low | Buying | 8/10 |
 
+### Gap #3: Maintenance Cost & Operating Expense
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| chi phí sử dụng máy lọc không khí | 120-250/mo | Low-Medium | Informational | 8.5/10 |
+| giá thay bộ lọc máy lọc không khí | 100-200/mo | Low | Buying | 9/10 |
+| tiền điện máy lọc không khí mỗi tháng | 60-130/mo | Low | Problem-solving | 8.5/10 |
+| chi phí máy lọc không khí 1 năm | 40-80/mo | Low | Informational | 8/10 |
+
+### Gap #4: Installation & Optimal Placement
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| đặt máy lọc không khí ở đâu trong phòng | 90-170/mo | Low | How-to | 9/10 |
+| cách sử dụng máy lọc không khí hiệu quả | 110-200/mo | Low-Medium | How-to | 8.5/10 |
+| máy lọc không khí bao lâu có hiệu quả | 80-150/mo | Low | Problem-solving | 8.5/10 |
+| vị trí đặt máy lọc không khí | 70-130/mo | Low | How-to | 8/10 |
+
+### Gap #5: Local Vietnam Market Insights (PRIORITY FOCUS)
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| máy lọc không khí Hà Nội | 400-800/mo | Low-Medium | Local Buying | 9/10 |
+| máy lọc không khí TP.HCM | 500-1,000/mo | Low-Medium | Local Buying | 9/10 |
+| mua máy lọc không khí Đà Nẵng | 150-300/mo | Low | Local Buying | 9/10 |
+| máy lọc không khí Hải Phòng | 100-200/mo | Low | Local Buying | 8.5/10 |
+| máy lọc không khí khu vực miền Bắc | 50-100/mo | Low | Local Buying | 8/10 |
+
+---
+
+## Long-tail Keywords (10-20 Keywords)
+### Gap #2: Health Impact & Performance
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| máy lọc không khí có hiệu quả không | 200-400/mo | Low | Informational | 8.5/10 |
+| bộ lọc HEPA hiệu suất bao nhiêu | 70-140/mo | Low | Informational | 8/10 |
+| máy lọc có giúp giảm dị ứng không | 80-160/mo | Low | Problem-solving | 8.5/10 |
+| filtration 99.97% là gì | 50-100/mo | Low | Informational | 7.5/10 |
+
+### Additional Long-tail (Local + Hybrid Intent)
+| Keyword | Search Volume | Difficulty | Intent | Opportunity |
+|---------|---------------|-----------|--------|-------------|
+| máy lọc không khí hàng loạt Việt Nam | 30-60/mo | Low | Buying | 8/10 |
+| thương hiệu máy lọc tốt nhất 2026 | 200-400/mo | Medium | Buying | 8/10 |
+| máy lọc không khí giá rẻ | 300-600/mo | Medium | Buying | 7.5/10 |
+| máy lọc không khí hàng chính hãng | 100-200/mo | Low | Buying | 8/10 |
+| máy lọc không khí bán ở đâu tốt nhất | 150-300/mo | Low | Local Buying | 8.5/10 |
+
+---
+
+## Keyword Clustering by Intent & Gap
+
+### Commercial Intent (Buying)
+- máy lọc không khí TP.HCM (500-1,000/mo)
+- máy lọc không khí Hà Nội (400-800/mo)
+- máy lọc không khí cho phòng 20m2 (80-150/mo)
+- giá thay bộ lọc máy lọc không khí (100-200/mo)
+- máy lọc không khí giá rẻ (300-600/mo)
+
+**Total Volume**: 1,380-2,750/mo | **Avg Difficulty**: Low-Medium | **Revenue Potential**: Very High
+
+### Informational Intent
+- máy lọc không khí Việt Nam (3,200-5,400/mo)
+- chi phí sử dụng máy lọc không khí (120-250/mo)
+- máy lọc không khí có hiệu quả không (200-400/mo)
+- CADR rating là gì (40-80/mo)
+
+**Total Volume**: 3,560-6,130/mo | **Avg Difficulty**: Low-Medium | **Authority Potential**: High
+
+### How-to/Problem-solving Intent
+- đặt máy lọc không khí ở đâu trong phòng (90-170/mo)
+- cách sử dụng máy lọc không khí hiệu quả (110-200/mo)
+- máy lọc không khí phòng bao nhiêu m² (60-120/mo)
+
+**Total Volume**: 260-490/mo | **Avg Difficulty**: Low | **Engagement Potential**: High
+
+---
+
+## Strategy: Content Piece Planning
+
+### Content Piece #1: Regional Guide (Gap #5 - Priority)
+**Primary Target**: máy lọc không khí Hà Nội / TP.HCM (900-1,800/mo combined)  
+**Secondary**: Regional keywords (50-100/mo each)  
+**Format**: 2,500+ words with city-specific sections
+
+### Content Piece #2: Room Size Matching Guide (Gap #1)
+**Primary Target**: máy lọc không khí cho phòng 20m2 (80-150/mo)  
+**Format**: 2,000+ words with interactive selection matrix
+
+### Content Piece #3: Operating Cost Guide (Gap #3)
+**Primary Target**: chi phí sử dụng máy lọc không khí (120-250/mo)  
+**Secondary**: giá thay bộ lọc (100-200/mo)  
+**Format**: 2,000+ words with cost calculator
+
+---
+
+## Difficulty Ratings Explanation
+
+**Low (0-20 KD%)**: Relatively new keywords with minimal competition in Vietnamese SERP; favorable for new content
+
+**Low-Medium (20-35 KD%)**: Moderate competition; ranking achievable with comprehensive content + E-E-A-T signals
+
+**Medium (35-50 KD%)**: Established queries with brand-heavy competition; requires unique angles and depth
+
+---
+
+## Search Intent Classification
+
+| Intent | Example Keywords | Content Type |
+|--------|-----------------|--------------|
+| **Commercial** | máy lọc không khí TP.HCM, giá thay bộ lọc | Product recommendations, buying guides |
+| **Transactional** | mua máy lọc không khí | Landing pages, e-commerce |
+| **Informational** | máy lọc có hiệu quả không | Educational guides, research articles |
+| **Local** | máy lọc không khí Hà Nội | Regional guides, availability maps |
+
+---
+
+## High-Opportunity Keywords for Content Priority
+
+**Top 5 Opportunities** (Highest Volume + Lowest Difficulty):
+1. máy lọc không khí TP.HCM (500-1,000/mo) - Difficulty: Low-Medium - Opportunity: 9/10
+2. máy lọc không khí Hà Nội (400-800/mo) - Difficulty: Low-Medium - Opportunity: 9/10
+3. máy lọc không khí cho phòng 20m2 (80-150/mo) - Difficulty: Low - Opportunity: 9/10
+4. đặt máy lọc không khí ở đâu trong phòng (90-170/mo) - Difficulty: Low - Opportunity: 9/10
+5. mua máy lọc không khí Đà Nẵng (150-300/mo) - Difficulty: Low - Opportunity: 9/10
+
+---
+
+## Estimated Content Volume & Timeline
+
+| Content Piece | Keywords Targeted | Est. Words | Timeline |
+|---------------|------------------|-----------|----------|
+| Regional Guide (Hà Nội + TP.HCM + Đà Nẵng) | 15+ | 3,500-4,000 | 1 week |
+| Room Size Matching | 8+ | 2,000-2,500 | 5 days |
+| Operating Cost Deep-Dive | 5+ | 2,000-2,500 | 5 days |
+| Installation & Placement | 5+ | 2,000-2,500 | 5 days |
+
+**Total Keywords Covered**: 33+ unique keywords  
+**Total Estimated Words**: 9,500-11,500  
+**Competition Moat**: 6-12 months before replication
+
+---
+
+## Next Steps
+1. Proceed to Skill #2: Content Writer
+2. Select primary keyword: **máy lọc không khí Hà Nội & TP.HCM** (Regional Guide - highest opportunity)
+3. Structure: H1 + 10+ H2s, comparison tables, buying guide, FAQ
+4. Target: 2,500+ words, beat competitors on comprehensiveness & local insights

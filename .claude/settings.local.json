@@ -79,7 +79,9 @@
       "WebFetch(domain:www.panasonic.com)",
       "WebFetch(domain:dienmaycholon.com)",
       "WebFetch(domain:www.daikin.com.vn)",
-      "Bash(awk '{print $9, \"\\(\" $5 \"\\)\"}')"
+      "Bash(awk '{print $9, \"\\(\" $5 \"\\)\"}')",
+      "Bash(cat)",
+      "Read(//tmp/**)"
     ]
   }
 }
