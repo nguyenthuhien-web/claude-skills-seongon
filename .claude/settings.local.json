@@ -68,7 +68,18 @@
       "Bash(git remote *)",
       "Bash(git branch *)",
       "Bash(git rm *)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "WebSearch",
+      "WebFetch(domain:www.dyson.vn)",
+      "WebFetch(domain:www.electrolux.vn)",
+      "WebFetch(domain:cellphones.com.vn)",
+      "WebFetch(domain:www.lg.com)",
+      "WebFetch(domain:www.iqair.com)",
+      "WebFetch(domain:airdog.vn)",
+      "WebFetch(domain:www.panasonic.com)",
+      "WebFetch(domain:dienmaycholon.com)",
+      "WebFetch(domain:www.daikin.com.vn)",
+      "Bash(awk '{print $9, \"\\(\" $5 \"\\)\"}')"
     ]
   }
 }

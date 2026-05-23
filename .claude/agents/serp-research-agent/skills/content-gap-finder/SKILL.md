@@ -1,11 +1,6 @@
 ---
 name: content-gap-finder
-description: Tìm khoảng trống nội dung mà top 10 chưa khai thác
-arguments:
-  - name: keyword
-    required: true
-  - name: serp_analysis_file
-    required: false
+description: Tìm khoảng trống nội dung mà top 10 chưa khai thác. Dùng sau competitor-content-analyzer để tìm unique angle cho bài viết.
 ---
 # Skill: Content Gap Finder
 ## Các bước

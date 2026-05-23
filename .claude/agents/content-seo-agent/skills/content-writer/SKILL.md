@@ -1,11 +1,6 @@
 ---
 name: content-writer
-description: Viết bài SEO chuẩn E-E-A-T cho thị trường Việt Nam
-arguments:
-  - name: keyword
-    required: true
-  - name: word_count
-    default: "1500"
+description: Viết bài SEO chuẩn E-E-A-T cho thị trường Việt Nam. Dùng sau keyword-research, nhận keyword và word count mục tiêu (mặc định 1500 từ).
 ---
 # Skill: Content Writer
 ## Các bước
